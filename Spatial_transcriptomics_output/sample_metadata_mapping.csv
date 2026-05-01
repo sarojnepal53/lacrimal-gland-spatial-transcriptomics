@@ -1,0 +1,5 @@
+"folder_name","original_sample_id","sample_id","condition","approximate_reads_million","mean_reads_per_spot_reported","median_genes_per_spot_reported"
+"BALBC_1","BALB/c_1","Control_1","Control",49,43487,874
+"BALBC_2","BALB/c_2","Control_2","Control",380,343286,2227
+"NOD_1","NOD.H-2b_1","Case_1","Case",288,188827,1848
+"NOD_2","NOD.H-2b_2","Case_2","Case",101,67466,1051
