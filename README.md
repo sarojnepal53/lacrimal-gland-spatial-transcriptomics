@@ -264,12 +264,12 @@ Marker genes used in this workflow include:
 
 ---
 
-## Suggested GitHub Description
+## GitHub Description
 
 Beginner-friendly Seurat workflow for 10x Visium spatial transcriptomics analysis of lacrimal gland tissue, including QC, SCT integration, clustering, UMAP visualization, spatial overlays, and marker-based cluster interpretation.
 
 ---
 
-## License
+## Citation
 
-Add a license depending on how you want others to use this repository. For open academic sharing, the MIT License is a common option for code-based projects.
+
