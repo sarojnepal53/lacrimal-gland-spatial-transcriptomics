@@ -33,7 +33,7 @@ The original authors deposited the study data in the **NCBI Gene Expression Omni
 
 The original article also provides supplemental files, including a ready-to-use Seurat object and analysis code. This repository is a beginner-oriented re-analysis and teaching workflow based on those publicly available resources. The original data, biological study design, and primary scientific findings belong to the original authors.
 
-Please cite the original Frontiers in Immunology paper if you use this workflow or the associated dataset.
+Please cite the original Frontiers in Immunology paper, too, along with our paper, if you use this workflow or the associated dataset.
 
 ---
 
